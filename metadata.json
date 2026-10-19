@@ -1,0 +1,6 @@
+{
+  "name": "DroidSandbox",
+  "description": "Lightweight Android APK sandbox and testing workbench with isolated testing profiles, binary APK metadata inspection, real-time runtime telemetry, and AVF hardware probing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

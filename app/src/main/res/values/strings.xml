@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">DroidSandbox</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_import">Import APK</string>
+    <string name="nav_testing">Testing</string>
+    <string name="nav_settings">Settings</string>
+    <string name="mode_badge_limited">Limited User-Space Sandbox Mode</string>
+    <string name="mode_badge_avf">AVF Hardware Virtualization</string>
+    <string name="empty_home_title">No Sandbox Apps Installed</string>
+    <string name="empty_home_subtitle">Import a local .apk file or generate a real sample test APK to inspect metadata, isolate profile storage, and benchmark runtime execution.</string>
+    <string name="btn_import_apk">Pick APK File</string>
+    <string name="btn_generate_sample">Generate Sample APK</string>
+    <string name="btn_install_sandbox">Install to Sandbox Profile</string>
+    <string name="btn_launch_app">Launch</string>
+    <string name="btn_test_inspect">Inspect &amp; Test</string>
+    <string name="btn_uninstall">Uninstall</string>
+    <string name="btn_clear_data">Clear App Data</string>
+    <string name="btn_create_profile">New Profile</string>
+    <string name="btn_reset_profile">Reset Profile</string>
+    <string name="btn_delete_profile">Delete Profile</string>
+</resources>
